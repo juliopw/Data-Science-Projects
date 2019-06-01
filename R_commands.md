@@ -12,6 +12,34 @@ Display Working Directory
 
 Set new Working Directory
 
-`setwd("~/example/")`
+`setwd("~/exemplo/")`
 
 # Working with files
+
+Executar arquivo .R
+
+
+# R command line
+
+## Expressions
+
+## Assign value to variable
+
+X in this case is a vector
+
+`x <- 5`
+
+## Print Value
+
+### auto-printing
+`x`
+`[1] 5`
+
+### explicit printing
+`print(x)`
+`[1] 5`
+
+## Create vector
+
+`x <- vector("numeric", length = 10)`
+
